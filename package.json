@@ -1,0 +1,22 @@
+{
+  "name": "@munelear/log4js-discord",
+  "version": "1.0.0",
+  "description": "simple log4js appender for discord webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munelear/log4js-discord.git"
+  },
+  "author": "munelear@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munelear/log4js-discord/issues"
+  },
+  "homepage": "https://github.com/munelear/log4js-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
